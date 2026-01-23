@@ -9,10 +9,10 @@
 </a>
 <br/><br/>
 <h4 style="margin-bottom: 8px;">Langs && Frameworks</h4>
-<img src="https://skillicons.dev/icons?i=typescript,rust,py,kotlin,java,nix,dart,react,vue,fastapi,nestjs,spring,flutter,tailwind&perline=4" height="75" alt="langs" />
+<img src="https://skillicons.dev/icons?i=typescript,rust,py,kotlin,java,nix,dart,react,vue,fastapi,nestjs,spring,flutter,tailwind&perline=7" height="75" alt="langs" />
 <br/><br/>
 <h4 style="margin-bottom: 8px;">Preferred Tools</h4>
-<img src="https://skillicons.dev/icons?i=git,vscode,docker,idea,androidstudio,electron,figma,github,githubactions,jenkins,neovim,nodejs,pnpm,maven,gradle&perline=4" height="75" alt="tools" />
+<img src="https://skillicons.dev/icons?i=git,vscode,docker,idea,androidstudio,electron,figma,github,githubactions,jenkins,neovim,nodejs,pnpm,maven,gradle&perline=7" height="75" alt="tools" />
 </td>
 <td width="70%" align="center" valign="top">
 <a href="https://github.com/lossthannothing">
