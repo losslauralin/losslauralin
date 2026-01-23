@@ -1,9 +1,6 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=lossthannothing&show_icons=true&include_all_commits=true&theme=radical" alt="lossthannothing's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lossthannothing&layout=compact&theme=radical" />
-</a>
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
 ### Hi there, I'm [lossthannothing](https://x.com/lossilklauralin)! 👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=lossthannothing.readme)
@@ -13,21 +10,25 @@
 </a>
 
 <br/>
+
+#### Langs && Frameworks
+<img src="https://skillicons.dev/icons?i=typescript,rust,py,kotlin,java,nix,dart,react,vue,fastapi,nestjs,spring,flutter,tailwind" />
+
 <br/>
 
-## Langs && Frameworks
+#### Preferred Tools
+<img src="https://skillicons.dev/icons?i=git,vscode,docker,idea,androidstudio,electron,figma,github,githubactions,jenkins,neovim,nodejs,pnpm,maven,gradle" />
 
-<div style="display: flex; gap: 2px; align-items: center;">
-  <img src="https://skillicons.dev/icons?i=typescript,rust,py,kotlin,java,nix,dart" />
-</div>
-<div style="display: flex; gap: 2px; align-items: center; margin-top: 5px;">
-  <img src="https://skillicons.dev/icons?i=react,vue,fastapi,nestjs,spring,flutter,tailwind" />
-</div>
+    </td>
+    <td valign="top" width="50%">
 
-## Preferred Tools
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=lossthannothing&show_icons=true&include_all_commits=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lossthannothing&layout=compact&theme=radical" />
+</a>
 
-<div style="display: flex; gap: 2px; align-items: center;">
-  <img src="https://skillicons.dev/icons?i=git,vscode,docker,idea,androidstudio,electron,figma,github,githubactions,jenkins,neovim,nodejs,pnpm,maven,gradle" />
-</div>
-
-<br clear="both"/>
+    </td>
+  </tr>
+</table>
