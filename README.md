@@ -8,15 +8,12 @@
 <img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" alt="Twitter" width="22px" style="margin-top: 10px;" />
 </a>
 <br/><br/>
-<hr/>
 <h4 style="margin-bottom: 8px; margin-top: 10px;">Langs && Frameworks</h4>
 <img src="https://skillicons.dev/icons?i=typescript,rust,py,kotlin,java,nix,dart,react,vue,fastapi,nestjs,spring,flutter,tailwind&perline=7" height="75" alt="langs" />
 <br/><br/>
-<hr/>
 <h4 style="margin-bottom: 8px; margin-top: 10px;">Preferred Tools</h4>
 <img src="https://skillicons.dev/icons?i=git,vscode,docker,idea,androidstudio,electron,figma,github,githubactions,jenkins,neovim,nodejs,pnpm,maven,gradle&perline=7" height="75" alt="tools" />
 <br/><br/>
-<hr/>
 </td>
 <td width="70%" align="center" valign="top">
 <a href="https://github.com/lossthannothing">
