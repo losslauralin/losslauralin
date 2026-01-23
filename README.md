@@ -1,7 +1,7 @@
 <table width="100%">
 <tr>
 <td width="40%" align="left" valign="top">
-<h3 style="margin-bottom: 4px;">Hi, I'm <a href="https://x.com/lossilklauralin">loss</a>!👋</h3>
+<h3 style="margin-bottom: 4px;">Hi, I'm <a href="https://github.com/lossthannothing">lossilklauralin</a>!👋</h3>
 <img  src="https://visitor-badge.laobi.icu/badge?page_id=lossthannothing.readme"  alt="visitors" />
 <br/>
 <a href="https://x.com/lossilklauralin" target="_blank">
