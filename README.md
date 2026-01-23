@@ -10,11 +10,11 @@
 <br/><br/>
 <hr/>
 <h4 style="margin-bottom: 8px; margin-top: 10px;">Langs && Frameworks</h4>
-<img src="https://skillicons.dev/icons?i=typescript,rust,py,kotlin,java,nix,dart,react,vue,fastapi,nestjs,spring,flutter,tailwind&perline=4" height="75" alt="langs" />
+<img src="https://skillicons.dev/icons?i=typescript,rust,py,kotlin,java,nix,dart,react,vue,fastapi,nestjs,spring,flutter,tailwind&perline=7" height="75" alt="langs" />
 <br/><br/>
 <hr/>
 <h4 style="margin-bottom: 8px; margin-top: 10px;">Preferred Tools</h4>
-<img src="https://skillicons.dev/icons?i=git,vscode,docker,idea,androidstudio,electron,figma,github,githubactions,jenkins,neovim,nodejs,pnpm,maven,gradle&perline=4" height="75" alt="tools" />
+<img src="https://skillicons.dev/icons?i=git,vscode,docker,idea,androidstudio,electron,figma,github,githubactions,jenkins,neovim,nodejs,pnpm,maven,gradle&perline=7" height="75" alt="tools" />
 <br/><br/>
 <hr/>
 </td>
