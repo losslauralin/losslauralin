@@ -1,18 +1,16 @@
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<h3 align="left">Hi there, I'm <a href="https://x.com/lossilklauralin">lossthannothing</a>! 👋</h3>
-<div align="left">
+<h3 align="left" style="margin-bottom: 8px;">Hi there, I'm <a href="https://x.com/lossilklauralin">lossthannothing</a>! 👋</h3>
+<div align="left" style="margin-bottom: 12px;">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=lossthannothing.readme" alt="visitors"/>
-<a href="https://x.com/lossilklauralin" target="_blank">
-<img alt="X (Twitter)" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" style="vertical-align: middle; margin-left: 10px;" />
+<a href="https://x.com/lossilklauralin" target="_blank" style="margin-left: 10px;">
+<img alt="X (Twitter)" width="22px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" style="vertical-align: middle;" />
 </a>
 </div>
-<br/>
-<h4>Langs && Frameworks</h4>
+<h4 style="margin-top: 10px; margin-bottom: 8px;">Langs && Frameworks</h4>
 <img height="35" src="https://skillicons.dev/icons?i=typescript,rust,py,kotlin,java,nix,dart,react,vue,fastapi,nestjs,spring,flutter,tailwind&perline=7" alt="Languages and Frameworks" />
-<br/><br/>
-<h4>Preferred Tools</h4>
+<h4 style="margin-top: 15px; margin-bottom: 8px;">Preferred Tools</h4>
 <img height="35" src="https://skillicons.dev/icons?i=git,vscode,docker,idea,androidstudio,electron,figma,github,githubactions,jenkins,neovim,nodejs,pnpm,maven,gradle&perline=7" alt="Tools" />
 </td>
 <td width="50%" valign="top">
