@@ -1,6 +1,6 @@
 <table width="100%">
 <tr>
-<td width="50%" align="left" valign="top">
+<td width="30%" align="left" valign="top">
 <h3 style="margin-bottom: 10px;">Hi there, I'm <a href="https://x.com/lossilklauralin">lossthannothing</a>! 👋</h3>
 <div style="margin-bottom: 10px;">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=lossthannothing.readme" alt="visitors" style="vertical-align: middle;"/>
