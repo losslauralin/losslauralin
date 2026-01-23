@@ -2,10 +2,10 @@
 <tr>
 <td width="40%" align="left" valign="top">
 <h3 style="margin-bottom: 4px;">Hi, I'm <a href="https://x.com/lossilklauralin">loss</a>!👋</h3>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=lossthannothing.readme" alt="visitors" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=lossthannothing.readme" width=50px alt="visitors" />
 <br/>
 <a href="https://x.com/lossilklauralin" target="_blank">
-<img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" alt="Twitter" width="50px" style="margin-top: 10px;" />
+<img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" alt="Twitter" width="22px" style="margin-top: 10px;" />
 </a>
 <br/><br/>
 <h3 style="margin-bottom: 8px; margin-top: 10px;">Langs && Frameworks</h3>
