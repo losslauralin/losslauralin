@@ -2,7 +2,7 @@
 <tr>
 <td width="40%" align="left" valign="top">
 <h3 style="margin-bottom: 4px;">Hi, I'm <a href="https://x.com/lossilklauralin">loss</a>!👋</h3>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=lossthannothing.readme" width=120px height=50px alt="visitors" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=lossthannothing.readme" width=120px height=22px alt="visitors" />
 <br/>
 <a href="https://x.com/lossilklauralin" target="_blank">
 <img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" alt="Twitter" width="22px" style="margin-top: 10px;" />
