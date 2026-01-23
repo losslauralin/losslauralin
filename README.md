@@ -1,8 +1,8 @@
 <a href="https://github.com/lossthannothing">
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=lossthannothing&show_icons=true&include_all_commits=true&theme=radical" alt="stats" />
+<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api?username=lossthannothing&show_icons=true&include_all_commits=true&theme=radical" alt="stats" />
 </a>
 <a href="https://github.com/lossthannothing">
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lossthannothing&layout=compact&theme=radical" />
+<img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lossthannothing&layout=compact&theme=radical" />
 </a>
 
 ### Hi there, I'm [lossthannothing](https://x.com/lossilklauralin)! 👋
@@ -15,9 +15,13 @@
 <br/>
 <br/>
 
-**Languages and Tools:**
+**Langs && Frameworks**
 <br/>
 <img src="https://skillicons.dev/icons?i=typescript,rust,py,kotlin,java,nix,dart,react,vue,fastapi,nestjs,spring,flutter,tailwind&perline=7" />
+
+<br/>
+
+**Preferred Tools**
 <br/>
 <img src="https://skillicons.dev/icons?i=git,vscode,docker,idea,androidstudio,electron,figma,github,githubactions,jenkins,neovim,nodejs,pnpm,maven,gradle&perline=7" />
 
