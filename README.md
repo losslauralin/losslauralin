@@ -1,6 +1,6 @@
 <table width="100%">
 <tr>
-<td width="40%" align="left" valign="top">
+<td width="35%" align="left" valign="top">
 <h3 style="margin-bottom: 4px;">Hi, I'm <a href="https://github.com/lossthannothing">lossilklauralin</a>!👋</h3>
 <img  src="https://visitor-badge.laobi.icu/badge?page_id=lossthannothing.readme"  alt="visitors" />
 <br/>
@@ -15,13 +15,13 @@
 <img src="https://skillicons.dev/icons?i=git,vscode,docker,idea,androidstudio,electron,figma,github,githubactions,jenkins,neovim,nodejs,pnpm,maven&perline=7" height="75" alt="tools" />
 <br/><br/>
 </td>
-<td width="60%" align="center" valign="top">
+<td width="65%" align="center" valign="top">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=lossthannothing&show_icons=true&include_all_commits=true&theme=solarized-light" width="100%" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=lossthannothing&show_icons=true&theme=graywhite&include_all_commits=true" width="100%" alt="stats" />
 </a>
 <br/><br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lossthannothing&layout=compact&theme=solarized-light" width="100%" alt="langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lossthannothing&layout=compact&theme=graywhite" width="100%" alt="langs" />
 </a>
 </td>
 </tr>
