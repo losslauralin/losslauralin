@@ -17,11 +17,11 @@
 </td>
 <td width="60%" align="center" valign="top">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=lossthannothing&show_icons=true&include_all_commits=true&theme=gruvbox_light" width="100%" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=lossthannothing&show_icons=true&include_all_commits=true&theme=solarized-light" width="100%" alt="stats" />
 </a>
 <br/><br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lossthannothing&layout=compact&theme=gruvbox_light" width="100%" alt="langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lossthannothing&layout=compact&theme=solarized-light" width="100%" alt="langs" />
 </a>
 </td>
 </tr>
