@@ -17,13 +17,11 @@
 </td>
 <td width="65%" align="center" valign="top">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=lossthannothing&show_icons=true&theme=graywhite&include_all_commits=true" width="100%" alt="stats" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lossthannothing" />
 </a>
-<br/><br/>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lossthannothing&layout=compact&theme=graywhite" width="100%" alt="langs" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lossthannothing&layout=compact&langs_count=8&card_width=320" />
+</a>
 </a>
 </td>
 </tr>
