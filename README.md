@@ -1,4 +1,4 @@
-### Hi, I'm [lossilklauralin](https://github.com/lossthannothing)! 👋
+### Hi, I'm [lossilklauralin](https://github.com/losslauralin)! 👋
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lossthannothing.readme)
 
 <a href="https://x.com/lossilklauralin" target="_blank">
